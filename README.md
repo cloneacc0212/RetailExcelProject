@@ -1,5 +1,5 @@
 # Retail Excel Project
-This project aims to build an automated sales report that presents business leaders with key metrics and meaningful drill-down analysis. Please download  to experience full interactive features. 
+This project aims to build an automated sales report that presents business leaders with key metrics and meaningful drill-down analysis. Please download Excel Project.xlsx to experience full interactive features. 
 ## Steps
 **1. Data Import:** Use SQL to retrieve data from the Azure database.
 
