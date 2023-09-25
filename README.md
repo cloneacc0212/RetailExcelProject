@@ -10,4 +10,12 @@ This project aims to build an automated sales report that presents business lead
 **4. Data Analysis:** Formulate the DAX formula to calculate key metrics.
 
 **5. Data Visualization:** Build categorical, time series, and geographical charts with interactive slicers.
-![Alt text](Mẫu Report.png)
+# Preview
+
+**Monthly Sales Dashboard**
+
+![Monthly Sales Dashboard](https://github.com/cloneacc0212/RetailExcelProject/blob/61e142ed45ec6ddf89c70116813ceec19a0a976d/M%E1%BA%ABu%20Report.png)
+
+**Data Modelling**
+
+![Data Modelling](https://github.com/cloneacc0212/RetailExcelProject/blob/96c0e9d2e4b87ae992f307940c1b862a32d08bbb/M%E1%BA%ABu%20Data%20Model.png)
