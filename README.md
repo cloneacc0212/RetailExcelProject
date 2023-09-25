@@ -10,3 +10,4 @@ This project aims to build an automated sales report that presents business lead
 **4. Data Analysis:** Formulate the DAX formula to calculate key metrics.
 
 **5. Data Visualization:** Build categorical, time series, and geographical charts with interactive slicers.
+![Alt text](Mẫu Report.png)
